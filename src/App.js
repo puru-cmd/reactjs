@@ -30,7 +30,7 @@ function App() {
               <tr>
 
                 <th>
-                  <div className='whole1'>ATGWORLD</div>
+                  <div className='whole1'><img src='whole.png'/></div>
                 </th>
 
                 <th>
@@ -60,7 +60,7 @@ function App() {
 
       <tr>
         <div className='rectangle2'>
-          <img src = 'photo1.jpg' alt = 'Error' height= '100%' width = '100%'/>
+          <img src = 'Rectangle 2.png' alt = 'Error'/>
           <div className='textOnimage1'>
             <p>Computer Engineering</p>
           </div>
